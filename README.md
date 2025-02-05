@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![HJC's GitHub stats](https://github-readme-stats.vercel.app/api?username=MainFe)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainFe2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainFe&layout=compact)
 
 <!--
 **MainFe/MainFe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
