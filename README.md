@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 [![HJC's GitHub stats](https://github-readme-stats.vercel.app/api?username=MainFe)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MainFe&layout=compact&exclude_repo=Island_pioneer-project&langs_count=4)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MainFe&layout=compact&exclude_repo=Island_pioneer-project&langs_count=10)
 
 ##### Stack
 ###### DevOps
